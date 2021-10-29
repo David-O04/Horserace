@@ -1,0 +1,11 @@
+body{background-color: green;
+    background-image: url("http://st2.depositphotos.com/1598598/10967/i/450/depositphotos_109671456-Green-Football-background-with-a-vertical-line.jpg");
+    background-size: cover;
+    
+}
+
+.horse{width:20px;height:20px;position:absolute;z-index:10}
+
+img{position:absolute;
+    right:800px
+}
